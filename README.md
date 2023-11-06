@@ -1,1 +1,1 @@
-# ACLoL Modern
+# ACLoL
